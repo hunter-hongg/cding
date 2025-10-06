@@ -1,3 +1,4 @@
+#pragma once 
 #include <string>
 #include "cgstdErr.hpp" // 提供Err模板
 
